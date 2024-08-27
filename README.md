@@ -1,3 +1,3 @@
 # MIMO-2x2-ZF_receiver_with_SIC
 
-Recovery of Transmitted symbol by a 2x2 MIMO system using Zero forcing reciver with Successive interfernce Cancellation
+Symbol Error analysis of BPSK and QPSK modulation in 2x2 MIMO with Zero Forcing and successive interference Cancellation 
